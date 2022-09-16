@@ -1,6 +1,6 @@
-package com.eivsoftware.CursoJavaClase09.controllers;
+package com.cursoJava.ecommerce.controllers;
 
-import com.eivsoftware.CursoJavaClase09.models.Animal;
+import com.cursoJava.ecommerce.models.Animal;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

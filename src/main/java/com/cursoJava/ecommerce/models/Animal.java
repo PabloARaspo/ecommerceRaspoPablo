@@ -1,4 +1,4 @@
-package com.eivsoftware.CursoJavaClase09.models;
+package com.cursoJava.ecommerce.models;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
